@@ -12,4 +12,11 @@ PS C:\Users\Aniruddha Pandey> $destination = "C:\Users\Aniruddha Pandey\Download
 PS C:\Users\Aniruddha Pandey> curl $source -OutFile $destination
 ```
 
+```powershell
+PS C:\Users\Aniruddha Pandey> cd .\Downloads\
+PS C:\Users\Aniruddha Pandey\Downloads> autoit-v3-setup.exe
+```
+
+## ScreenShots
+
 ## Contribution guidelines
