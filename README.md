@@ -44,3 +44,5 @@ The source (.au3) file is here: [![Download](https://github.com/aniruddha0pandey
 - [x] Handling of muliple instances of Command Prompt.
 - [ ] Can Pin to top any Window.
 - [ ] SetCmdTop.au3 file should be opned on startup.
+<br/>
+You could contribute to this repo by working on these milestones.
