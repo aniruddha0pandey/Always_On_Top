@@ -30,5 +30,9 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 ```
 
 ## ScreenShots
+### Step - I
 <div align="center"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/1.PNG"></div>
+### Step - II
+<div align="center"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/2.PNG"></div>
+
 ## Contribution guidelines
