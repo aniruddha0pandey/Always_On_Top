@@ -40,4 +40,7 @@ You can download the source from here: <a href="https://github.com/aniruddha0pan
 <br/>
 
 ## Contribution guidelines
-The source (.au3) file here: [![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg)](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3)
+The source (.au3) file is here: [![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg)](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3). In starting of this project I've assigned some milestone but only one of that is completed.
+- [x] Handling of muliple instances of Command Prompt.
+- [ ] Can Pin to top any Window.
+- [ ] SetCmdTop.au3 file should be opned on startup.
