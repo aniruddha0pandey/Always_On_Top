@@ -28,6 +28,7 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 > cd .\Downloads\
 > autoit-v3-setup.exe
 ```
+<br/>
 
 ## ScreenShots
 ### Step - I
@@ -35,5 +36,6 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 
 ### Step - II
 <div align="center"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/2.PNG"></div>
+<br/>
 
 ## Contribution guidelines
