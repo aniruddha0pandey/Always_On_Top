@@ -7,7 +7,8 @@ Hi, I'm Aniruddha and I like to mulitask. But I cannot do that in the hubbub of 
 - [AutoIt](https://www.autoitscript.com/site/autoit/)<br/>
 
 But things didn't went well for the first two. I intalled **AutoHotKey** at first but unable to run it in my system. Then **DeskPins**, but it's GUI doesn't catch my fancy, actually it was too straight forward for me. So the last resort is **AutoIt** and this time it worked!<br/>
-I made a _AutoIt V3 Script_ for what I desire. Hope you'll find it 
+I made a `AutoIt V3 Script` for what I desire. Hope you'll find it fruitful.<br/>
+I've used a _function_ made by @kissgyorgy in his <a href="https://gist.github.com/kissgyorgy/4536028">Gist<a/>.
 
 Always On Top feature for Windows!<br/>
 Windows key + R<br/>
