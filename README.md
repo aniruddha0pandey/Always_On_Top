@@ -14,7 +14,8 @@ As I've recently updated my *OS* to *windows 10* I cannot stop myself in delving
 That's why the all the prerequisites are in *PowerShell*.<br/><br/>
 
 > Press `Windows key + R` from anywhere in your computer.<br/>
-> Type `powershell` in the *Run Window* and hit return.<br/>
+> Type `powershell` in the *Run Window* and hit return.
+
 This will open a prompt name *Windows PowerShell*.<br/>
 Now we're all set to dowload the *AutoIt Installer*. You can use the below mention commands. Refere [Screenshots](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/README.md#step---i)
 ```powershell
