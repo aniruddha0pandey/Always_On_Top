@@ -13,8 +13,9 @@ A little shoutout to **@kissgyorgy** as I've used a *function* mention in his <a
 As I've recently updated my *OS* to *windows 10* I cannot stop myself in delving inside the updated **PowerShell 5.0**.<br/>
 That's why the all the prerequisites are in *PowerShell*.<br/><br/>
 
-Windows key + R<br/>
-Windows PowerShell<br/>
+Press `Windows key + R` from anywhere in your computer.<br/>
+Type `powershell` in the *Run Window* and hit return.<br/>
+This will opne a prompt name *Windows PowerShell*.<br/>
 ```powershell
 > $source = "https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe"
 > $destination = "C:\Users\Aniruddha Pandey\Downloads\autoit-v3-setup.exe"
