@@ -40,4 +40,4 @@ You can download the source from here: <a href="https://github.com/aniruddha0pan
 <br/>
 
 ## Contribution guidelines
-[![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg)](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3)
+The source (.au3) file here: [![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg)](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3)
