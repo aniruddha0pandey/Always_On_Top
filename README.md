@@ -16,19 +16,19 @@ That's why the all the prerequisites are in *PowerShell*.<br/><br/>
 Press `Windows key + R` from anywhere in your computer.<br/>
 Type `powershell` in the *Run Window* and hit return.<br/>
 This will open a prompt name *Windows PowerShell*.<br/>
-Now we're all set to dowload the *AutoIt Installer*. You can use the below mention commands.<br/><br/>
+Now we're all set to dowload the *AutoIt Installer*. You can use the below mention commands.
 ```powershell
 > $source = "https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe"
 > $destination = "C:\Users\Aniruddha Pandey\Downloads\autoit-v3-setup.exe"
 > curl $source -OutFile $destination
 ```
-<div align="center"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/1.PNG"></div>
-
+This command will start to download the required *autoit-v3-setup*.<br/>
+Then next step is to install the setup.
 ```powershell
 > cd .\Downloads\
 > autoit-v3-setup.exe
 ```
 
 ## ScreenShots
-
+<div align="center"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/1.PNG"></div>
 ## Contribution guidelines
