@@ -22,7 +22,7 @@ Now we're all set to dowload the *AutoIt Installer*. You can use the below menti
 > $destination = "C:\Users\Aniruddha Pandey\Downloads\autoit-v3-setup.exe"
 > curl $source -OutFile $destination
 ```
-This command will start to download the required *autoit-v3-setup*.<br/>
+This command will start downloading the required *autoit-v3-setup*.<br/>
 Then next step is to install the setup. Refere [Screenshots](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/README.md#screenshots)
 ```powershell
 > cd .\Downloads\
