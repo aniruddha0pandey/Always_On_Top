@@ -29,8 +29,8 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 > cd .\Downloads\
 > autoit-v3-setup.exe
 ```
+You can download the source from here:<a href="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3" target="_blank"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg"></a>
 <br/>
-
 ## ScreenShots
 #### Step - I
 <div align="center"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/1.PNG"></div>
@@ -40,4 +40,4 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 <br/>
 
 ## Contribution guidelines
-[ ![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/download.svg) ](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3)
+[![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg)](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3)
