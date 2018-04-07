@@ -40,4 +40,4 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 <br/>
 
 ## Contribution guidelines
-[ ![Download](https://www.google.com) ](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3)
+[ ![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/download.svg) ](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3)
