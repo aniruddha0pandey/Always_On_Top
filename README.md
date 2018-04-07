@@ -11,7 +11,7 @@ A little shoutout to **@kissgyorgy** as I've used a *function* mention in his <a
 
 ## Installation
 As I've recently updated my *OS* to *windows 10* I cannot stop myself in delving inside the updated **PowerShell 5.0**.<br/>
-That's why the all the prerequisites are in *PowerShell*.<br/><br/>
+That's why the all the prerequisites are in *PowerShell*.<br/>
 
 > Press `Windows key + R` from anywhere in your computer.<br/>
 > Type `powershell` in the *Run Window* and hit return.
