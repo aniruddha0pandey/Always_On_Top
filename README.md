@@ -44,6 +44,7 @@ The source (.au3) file is here: [![Download](https://github.com/aniruddha0pandey
 - [x] Handling of muliple instances of Command Prompt.
 - [ ] SetCmdTop.au3 file should be opned on startup.
 - [ ] Can Pin to top any Window using (Ctrl + Space).
+- [ ] The Prompt should be opened at right corner other than (X, Y) ≡ (0, 0).
 
 <br/>
 You could contribute to this repo by working on these milestones.
