@@ -5,7 +5,7 @@ Hi, I'm Aniruddha and I like to mulitask. But I cannot do that in the hubbub of 
 - [DeskPins](https://efotinis.neocities.org/deskpins/)
 - [AutoIt](https://www.autoitscript.com/site/autoit/)<br/>
 
-But things didn't went well for the first two. I intalled **AutoHotKey** at first but unable to run it in my system. Then **DeskPins**, but it's GUI doesn't catch my fancy, actually it was too straight forward for me. So the last resort is **AutoIt** and this time it worked!<br/>
+But things didn't went well for the first two. I intalled **AutoHotKey** at first but unable to run it in my system. Then **DeskPins**, but it's GUI doesn't catch my fancy, actually it was too straight forward for me. So the last resort is **AutoIt** and this time it worked:heart:!<br/>
 I made a `AutoIt V3 Script` for what I desire. Hope you'll find it fruitful.<br/>
 A little shoutout to **@kissgyorgy** as I've used a *function* mention in his <a href="https://gist.github.com/kissgyorgy/4536028">Gist<a/>.<br/><br/>
 
@@ -13,8 +13,8 @@ A little shoutout to **@kissgyorgy** as I've used a *function* mention in his <a
 As I've recently updated my *OS* to *windows 10* I cannot stop myself in delving inside the updated **PowerShell 5.0**.<br/>
 That's why the all the prerequisites are in *PowerShell*.<br/><br/>
 
-Press `Windows key + R` from anywhere in your computer.<br/>
-Type `powershell` in the *Run Window* and hit return.<br/>
+> Press `Windows key + R` from anywhere in your computer.<br/>
+> Type `powershell` in the *Run Window* and hit return.<br/>
 This will open a prompt name *Windows PowerShell*.<br/>
 Now we're all set to dowload the *AutoIt Installer*. You can use the below mention commands. Refere [Screenshots](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/README.md#step---i)
 ```powershell
@@ -31,10 +31,10 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 <br/>
 
 ## ScreenShots
-### Step - I
+#### Step - I
 <div align="center"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/1.PNG"></div>
 
-### Step - II
+#### Step - II
 <div align="center"><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/2.PNG"></div>
 <br/>
 
