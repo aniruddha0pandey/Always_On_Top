@@ -23,5 +23,4 @@ Func SetWindowOnTop()
 	  ; Apply the style
 	  _WinAPI_SetWindowPos($hWnd, $HWND_TOP+$HWND_TOPMOST, 0, 0, 0, 0, BitOr($SWP_NOMOVE, $SWP_NOSIZE))
    EndIf
-
- EndFunc
+EndFunc
