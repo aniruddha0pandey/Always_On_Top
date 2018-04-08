@@ -41,10 +41,23 @@ You can download the source from here: <a href="https://github.com/aniruddha0pan
 
 ## Contribution guidelines
 The source (.au3) file is here: [![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg)](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3). In starting of this project I've assigned some milestone but only one of that is completed.
-- [x] Handling of muliple instances of Command Prompt.
-- [ ] SetCmdTop.au3 file should be opned on startup.
-- [ ] Can Pin to top any Window using (Ctrl + Space).
+- [x] Handling of muliple instances of Command Prompt (As 'SYSTEM32' is different than 'system32').
+- [ ] Script should be initiated on startup and should run until next session (and not for once).
+- [ ] Can Pin to top any Window using (Ctrl + Shift + Space).
 - [ ] The Prompt should be opened at right corner other than (X, Y) ≡ (0, 0).
 
 <br/>
-You could contribute to this repo by working on these milestones.
+You could contribute to this repo by working on these milestones.<br/>
+As if for third point the below *HotKey Script* can be implemented.
+```autoit
+HotKeySet("^+{space}", "reactionFunction")
+
+While 1
+   ; A loop
+WEnd
+
+Func reactionFunction()
+   MsgBox(0, "Always on Top", "You pressed CTRL+Shift+Space" & @LF & "Active Window is on Top now.")
+   Exit
+EndFunc
+```
