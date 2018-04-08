@@ -40,7 +40,7 @@ You can download the repo from here: <a href="https://github.com/aniruddha0pande
 <br/>
 
 ## Contribution guidelines
-The source (.au3) file is here: [![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg)](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/SetCmdTop.au3). In starting of this project I've assigned some milestone but only one of that is completed.
+The source (.au3) file is here: [![Download](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/code.svg)](https://github.com/aniruddha0pandey/Always_On_Top/blob/master/src/SetCmdTop.au3). In starting of this project I've assigned some milestone but only one of that is completed.
 - [x] Handling of muliple instances of Command Prompt (As 'SYSTEM32' is different than 'system32').
 - [ ] Script should be initiated on startup and should run until next session (and not for once).
 - [ ] Can Pin to top any Window using (Ctrl + Shift + Space).
