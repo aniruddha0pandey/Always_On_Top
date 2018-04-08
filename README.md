@@ -29,7 +29,7 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 > cd .\Downloads\
 > autoit-v3-setup.exe
 ```
-You can download the repo from here: <div style="padding: 2px"><a href="https://github.com/aniruddha0pandey/Always_On_Top/archive/master.zip" target="_blank"  download><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/download.svg"></a></div>
+You can download the repo from here: <a href="https://github.com/aniruddha0pandey/Always_On_Top/archive/master.zip" target="_blank" download><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/download.svg"></a>
 <br/>
 ## ScreenShots
 #### Step - I
