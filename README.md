@@ -47,7 +47,8 @@ The source (.au3) file is here: [![Download](https://github.com/aniruddha0pandey
 - [ ] The Prompt should be opened at right corner other than (X, Y) ≡ (0, 0).
 
 
-You could contribute to this repo by working on these milestones.<br/>
+You could contribute to this repo by working on these milestones.
+<br/><br/>
 
 ## Motivation
 As if for third point the below *HotKey Script* can be implemented.
