@@ -48,6 +48,8 @@ The source (.au3) file is here: [![Download](https://github.com/aniruddha0pandey
 
 
 You could contribute to this repo by working on these milestones.<br/>
+
+## Motivation
 As if for third point the below *HotKey Script* can be implemented.
 
 ```autoit
