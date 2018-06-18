@@ -29,8 +29,8 @@ Then next step is to install the setup. Refere [Screenshots](https://github.com/
 > cd .\Downloads\
 > autoit-v3-setup.exe
 ```
-You can download the repo from here:&nbsp&nbsp<a href="https://github.com/aniruddha0pandey/Always_On_Top/archive/master.zip" target="_blank" download><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/download.svg"></a><br/>
-And binaries from here:&nbsp&nbsp<a href="https://github.com/aniruddha0pandey/Always_On_Top/raw/master/bin/SetCmdTop.exe" target="_blank" download><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/download.svg"></a>
+You can download the repo from here:  <a href="https://github.com/aniruddha0pandey/Always_On_Top/archive/master.zip" target="_blank" download><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/download.svg"></a><br/>
+And binaries from here:  <a href="https://github.com/aniruddha0pandey/Always_On_Top/raw/master/bin/SetCmdTop.exe" target="_blank" download><img src="https://github.com/aniruddha0pandey/Always_On_Top/blob/master/Resources/download.svg"></a>
 <br/><br/>
 ## ScreenShots
 #### Step - I
